@@ -4,12 +4,13 @@
 
 The Contact Management feature is designed to efficiently manage your contacts. It allows users to add, edit, delete, and sort contacts with ease. the app features an intuitive and responsive user interface for managing professional contact information, such as names, phone numbers, emails, company and job title.
 
-Key Features
+Key Features <br>
 Create Contacts: Add new contacts with detailed information.<br>
 Edit Contacts: Update existing contact information.<br>
 Delete Contacts: Remove contacts that are no longer needed.<br>
-Search & Filter: Quickly find contacts using search functionality.<br>
-Responsive Design: Fully responsive UI that works seamlessly on desktops, tablets, and mobile devices.<br>
+Sort Contacts: Sort the contacts based on name, email, phone number, company or job title.<br>
+
+All the UI components are made using material UI.
 
 ---
 
