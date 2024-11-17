@@ -1,15 +1,15 @@
-# Vite React App
+# Contact Management
 
 ## Description
 
-The Contact Management App is a web application designed to efficiently manage your contacts. It allows users to add, edit, delete, and search for contacts with ease. Built with a modern tech stack, the app features an intuitive and responsive user interface for managing personal or professional contact information, such as names, phone numbers, emails, and addresses.
+The Contact Management feature is designed to efficiently manage your contacts. It allows users to add, edit, delete, and sort contacts with ease. the app features an intuitive and responsive user interface for managing professional contact information, such as names, phone numbers, emails, company and job title.
 
 Key Features
-Create Contacts: Add new contacts with detailed information.
-Edit Contacts: Update existing contact information.
-Delete Contacts: Remove contacts that are no longer needed.
-Search & Filter: Quickly find contacts using search functionality.
-Responsive Design: Fully responsive UI that works seamlessly on desktops, tablets, and mobile devices.
+Create Contacts: Add new contacts with detailed information.<br>
+Edit Contacts: Update existing contact information.<br>
+Delete Contacts: Remove contacts that are no longer needed.<br>
+Search & Filter: Quickly find contacts using search functionality.<br>
+Responsive Design: Fully responsive UI that works seamlessly on desktops, tablets, and mobile devices.<br>
 
 ---
 
